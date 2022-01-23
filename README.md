@@ -60,4 +60,6 @@ Both lower-exposed ---> middle-exposed image and middle-exposed ---> lower-expos
 
 Red box points out the result of refill tool basing on P2.py output. Blue boxes points out the tile result of P3.py.
 
+![RefillResultExample](/RefillResultExample.jpg)
+
 Please refer to Scenes folder for more results.
